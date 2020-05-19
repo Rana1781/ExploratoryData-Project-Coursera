@@ -1,6 +1,8 @@
 # ExploratoryData-Project-Coursera
 This assignment project is from Exploratory Data Analysis from coursera (WEEK 01)
 
+# NB: Instructions Copied from [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
+
 ## Introduction
 
 This assignment uses data from
@@ -52,9 +54,6 @@ varies over a 2-day period in February, 2007. Your task is to
 reconstruct the following plots below, all of which were constructed
 using the base plotting system.
 
-First you will need to fork and clone the following GitHub repository:
-[https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
-
 
 # For each plot you should
 
@@ -82,20 +81,20 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](plot1.png) 
+(plot1.png) 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](plot2.png) 
+(plot2.png) 
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](plot3.png) 
+(plot3.png) 
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](plot4.png) 
+(plot4.png) 
 
