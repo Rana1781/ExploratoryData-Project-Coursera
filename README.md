@@ -1,7 +1,7 @@
 # ExploratoryData-Project-Coursera
 This assignment project is from Exploratory Data Analysis from coursera (WEEK 01)
 
-# NB: Instructions Copied from [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
+NB: Instructions Copied from [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
 
 ## Introduction
 
@@ -81,20 +81,20 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-(plot1.png) 
+![plot of chunk unnamed-chunk-2](plot1.png) 
 
 
 ### Plot 2
 
-(plot2.png) 
+![plot of chunk unnamed-chunk-3](plot2.png) 
 
 
 ### Plot 3
 
-(plot3.png) 
+![plot of chunk unnamed-chunk-4](plot3.png) 
 
 
 ### Plot 4
 
-(plot4.png) 
+![plot of chunk unnamed-chunk-5](plot4.png) 
 
